@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">TIẾP TỤC</string>
+    <string name="skip">BỎ QUA</string>
+    <string name="start">ĐI</string>
+    <string name="slide_1_desc">Mang đến cho bạn trải nghiệm tuyệt vời.</string>
+    <string name="slide_2_desc">Hãy đến với chúng tôi để được phục vụ tốt nhất.</string>
+    <string name="slide_3_desc">Hãy cùng trải nghiệm.</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="app_name">xedapdana</string>
+    <string name="name_app"> Xe Đạp Đà Nẵng</string>
+    <string name="check_internet">Vui lòng kiểm tra kết nối Internet</string>
+    <string name="zone">XE ĐẠP DANA</string>
+</resources>
